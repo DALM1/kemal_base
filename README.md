@@ -24,5 +24,9 @@ TODO: Write development instructions here
 
 ## Contributors
 
-- [Dimitri Almon](https://github.com/your-github-user) - creator and maintainer
+- [DALM1](https://github.com/your-github-user) - creator and maintainer
 # kemal_base
+
+shards install
+
+crystal run app.cr
